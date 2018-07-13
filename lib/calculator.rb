@@ -1,4 +1,4 @@
 class Calculator 
-  def add 
+  def add(a,b)
   end 
 end 
