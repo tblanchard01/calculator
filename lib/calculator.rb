@@ -4,7 +4,7 @@ class Calculator
     (a+b)
   end 
 def pretty_add(a,b)
-"The sum of #{a} and #{b} is #{self.add(a,b)}"
+"The sum of #{a} and #{b} is #{add(a,b)}"
 end 
 
 end 
